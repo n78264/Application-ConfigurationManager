@@ -6,6 +6,7 @@ namespace ApplicationSettings
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Adding some changes from UAT!");
             Console.WriteLine("Hello World!");
         }
     }
